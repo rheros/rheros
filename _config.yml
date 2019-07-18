@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 生金龙的博客
-subtitle: 游戏技术美术TA
+title: 技美的博客
+subtitle: 一个TA的技术博客
 description:  拥有多年技术美术经验
 keywords: TA 技术美术 unity技术美术 图形渲染  
 author: 生金龙
-language: 中文 English
-timezone: +8
+language: lang
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -29,7 +29,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
