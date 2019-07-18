@@ -3,24 +3,24 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: 生金龙的博客
+subtitle: 游戏技术美术TA
+description:  拥有多年技术美术经验
+keywords: TA 技术美术 unity技术美术 图形渲染  
+author: 生金龙
+language: 中文 English
+timezone: +8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.nutcg.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: docs
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
